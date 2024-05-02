@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Win-Optimization/1.0.0": {
+        "runtime": {
+          "Win-Optimization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Win-Optimization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
