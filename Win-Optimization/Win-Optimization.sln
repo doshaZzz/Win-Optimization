@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win-Optimization", "Win-Optimization\Win-Optimization.csproj", "{5267B047-9A82-4168-B8E3-C64B33B5C4AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win-Otimization", "Win-Otimization\Win-Otimization.csproj", "{A5EB61BC-5658-4ED5-BA41-6C8D4E90E554}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5267B047-9A82-4168-B8E3-C64B33B5C4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5267B047-9A82-4168-B8E3-C64B33B5C4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5267B047-9A82-4168-B8E3-C64B33B5C4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5267B047-9A82-4168-B8E3-C64B33B5C4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EB61BC-5658-4ED5-BA41-6C8D4E90E554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EB61BC-5658-4ED5-BA41-6C8D4E90E554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EB61BC-5658-4ED5-BA41-6C8D4E90E554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EB61BC-5658-4ED5-BA41-6C8D4E90E554}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {283AF867-786C-4A55-B3CD-DB13E1FD2D53}
+		SolutionGuid = {2A722EBF-F77F-4D2A-AE64-59FE9A56107A}
 	EndGlobalSection
 EndGlobal
